@@ -103,3 +103,5 @@ A cross-platform CLI for managing git worktrees across multiple repositories, wi
 <sub><i>Fix all the things.</i></sub>
 
 </div>
+
+<!-- profile -->
