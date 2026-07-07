@@ -20,7 +20,7 @@ I care about correctness, unglamorous reliability, and tooling that makes good e
 
 <br>
 
-### `01`&nbsp;&nbsp;What I focus on
+### What I focus on
 
 | Focus | |
 |---|---|
@@ -31,7 +31,7 @@ I care about correctness, unglamorous reliability, and tooling that makes good e
 
 <br>
 
-### `02`&nbsp;&nbsp;What I'm building
+### What I'm building
 
 Open-source tooling I lead at Moberg, bringing our engineering discipline to AI-assisted development.
 
@@ -81,18 +81,6 @@ A cross-platform CLI for managing git worktrees across multiple repositories, wi
 </td>
 </tr>
 </table>
-
-<br>
-
-### `03`&nbsp;&nbsp;On GitHub
-
-<div align="center">
-
-<img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiBu&layout=compact&langs_count=8&hide_border=true&title_color=4E0EFF&text_color=808080&bg_color=00000000" />
-&nbsp;&nbsp;
-<img height="165" alt="Contribution streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MiBu&hide_border=true&ring=4E0EFF&fire=4E0EFF&currStreakLabel=4E0EFF&sideLabels=808080&dates=808080&sideNums=808080&currStreakNum=808080&background=00000000" />
-
-</div>
 
 <br>
 
